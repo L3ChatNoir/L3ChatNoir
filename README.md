@@ -9,8 +9,3 @@ What about you ?
 ### What You'll Find Here
 
 Dig into my repositories, explore. Maybe there is something.
-
-
-### Want to speak ?
-
-One word : OSINT.
